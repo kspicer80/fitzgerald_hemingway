@@ -10,14 +10,17 @@ from sklearn.metrics import accuracy_score
 import spacy
 nlp = spacy.load('en_core_web_lg')
 
-def count_metaphors_similes(text):
-    doc = nlp(text)
-    metaphor_simile_count = 0
-    for token in doc:
-        if token.pos_ in ['ADJ', 'ADV']:
-            if "compound" in [child.dep_ for child in token.children]:
-                metaphor_simile_count += 1
-    return metaphor_simile_count
+def get_metaphor_count(text_data):
+    def count_metaphors_similes(text):
+        doc = nlp(text)
+        metaphor_simile_count = 0
+        for token in doc:
+            if token.pos_ in ['ADJ', 'ADV']:
+                if "compound" in [child.dep_ for child in token.children]:
+                    metaphor_simile_count += 1
+        return metaphor_simile_count
+
+    metaphor_count = np.array([count_metaphors_similes(text) for text in text_data])
 
 # Load the data
 root_folder = 'data'
@@ -46,17 +49,13 @@ for subfolder in os.listdir(root_folder):
 
 X_train, X_test, y_train, y_test = train_test_split(text_data, labels, test_size=0.2)
 
-metaphor_count = [count_metaphors_similes(text) for text in X_train]
-metaphor_count = np.array(metaphor_count).reshape(-1, 1)
-
-X_traied
 vectorizer = TfidfVectorizer()
 
-X_train = vectorizer.fit_transform(X_train)
+X_train = vectorizer.fit_transform(X_trained)
 X_test = vectorizer.transform(X_test)
 
 classifier = LinearSVC()
-classifier.fit(X_train, y_train)
+classifier.fit(X_trained, y_train)
 y_pred = classifier.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy for this LinearSVC model utilizing TfidfVectorizer is:", accuracy)
