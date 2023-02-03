@@ -1,5 +1,6 @@
 # Import the required libraries
 import os
+import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
@@ -22,7 +23,7 @@ for subfolder in os.listdir(root_folder):
     for file in os.listdir(subfolder_path):
         file_path = os.path.join(subfolder_path, file)
         print("Processing file:", file)
-        with open(file_path, 'r') as f:
+        with open(file_path, 'r', encoding="utf-8") as f:
             text = f.read()
 
         text_data.append(text)
@@ -31,24 +32,28 @@ for subfolder in os.listdir(root_folder):
 #print(len(text_data))
 #print(len(labels))
 
-# Split the data into training and testing sets
-text_train, text_test, labels_train, labels_test = train_test_split(text_data, labels, test_size=0.2)
-
 # Convert the text data into numerical representations
 vectorizer = CountVectorizer()
-X_train = vectorizer.fit_transform(text_train)
-X_test = vectorizer.transform(text_test)
+X = vectorizer.fit_transform(text_data)
+
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, labels, test_size=0.2)
+
+X_test = vectorizer.transform(X_test)
 
 # Train a binary classifier
-classifier = MultinomialNB()
-classifier.fit(X_train, labels_train)
+model = MultinomialNB()
+model.fit(X_train, y_train)
 
 # Predict the labels on the test data
-predictions = classifier.predict(X_test)
+predictions = model.predict(X_test)
 predictions = [1 if prediction > 0.5 else 0 for prediction in predictions]
-accuracy = accuracy_score(labels_test, predictions)
+
+print("labels_test:", y_test.shape)
+print("predictions shape:", len(predictions))
 
 # Evaluate the classifier
+'''
 accuracy = accuracy_score(labels_test, predictions)
 print("Accuracy:", accuracy)
 
@@ -57,15 +62,11 @@ for i in range(len(X_test)):
     print("Actual label:", labels_test[i])
     print("Predicted label:", predictions[i])
 
-# Convert the sparse matrix to a dense matrix
-X_test = X_test.toarray()
-
-# Make predictions on the test data
-predictions = model.predict(X_test)
 
 # Convert the predictions from numeric to binary format
 predictions = [1 if prediction > 0.5 else 0 for prediction in predictions]
 
 # Calculate the accuracy of the classifier
-accuracy = accuracy_score(y_test, predictions)
+accuracy = accuracy_score(labels, predictions)
 print("Accuracy:", accuracy)
+'''
