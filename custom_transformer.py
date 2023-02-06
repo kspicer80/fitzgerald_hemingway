@@ -12,6 +12,10 @@ import transformers
 import numpy as np
 import os
 import pandas as pd
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 class MetaphorCounter(BaseEstimator, TransformerMixin):
     def __init__(self):
@@ -91,12 +95,8 @@ pipe1.fit(X_train, y_train)
 y_pred = pipe1.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy for this LinearSVC model utilizing TfidfVectorizer is:", accuracy)
-print(classification_report(y_test, y_pred))#, target_names=target_names))
-
-
-from sklearn.metrics import confusion_matrix
-import matplotlib.pyplot as plt
-import seaborn as sns
+#print(classification_report(y_test, y_pred))#, target_names=target_names))
+print(classifier.dual_coef_)
 
 # Generate the confusion matrix
 cm = confusion_matrix(y_test, y_pred)

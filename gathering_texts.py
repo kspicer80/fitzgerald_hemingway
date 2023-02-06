@@ -1,3 +1,4 @@
+'''
 import requests
 from bs4 import BeautifulSoup
 
@@ -44,3 +45,15 @@ for link in hemingway_text_links:
     response = requests.get(link)
     with open(link.split("/")[-1], "wb") as file:
         file.write(response.content)
+'''
+
+import os
+
+root_dir = 'data'
+
+for dir_name, subdir_list, file_list in os.walk(root_dir):
+    for file_name in file_list:
+        old_file_path = os.path.join(dir_name, file_name)
+        new_file_name = os.path.basename(dir_name) + '_' + file_name
+        new_file_path = os.path.join(dir_name, new_file_name)
+        os.rename(old_file_path, new_file_name)
