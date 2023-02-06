@@ -3,6 +3,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.pipeline import Pipeline
 from sklearn.svm import LinearSVC
 from sklearn.svm import SVC
+from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from transformers import AutoTokenizer, AutoModelForTokenClassification
@@ -90,6 +91,8 @@ pipe1.fit(X_train, y_train)
 y_pred = pipe1.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy for this LinearSVC model utilizing TfidfVectorizer is:", accuracy)
+print(classification_report(y_test, y_pred))#, target_names=target_names))
+
 
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
@@ -105,5 +108,4 @@ plt.ylabel("True Label")
 plt.title("Confusion Matrix")
 plt.show()
 plt.savefig('svc_with_metaphor_counts.png')
-
 
