@@ -45,7 +45,7 @@ class MetaphorCounter(BaseEstimator, TransformerMixin):
 def load_data(folder_path):
     root_folder = folder_path
 
-    filenames = []
+    #filenames = []
     text_data = [] # Replace with the text data
     labels = [] # Replace with the corresponding labels (0 or 1)
 
@@ -62,11 +62,10 @@ def load_data(folder_path):
             print("Processing file:", file)
             with open(file_path, 'r', encoding="utf-8") as f:
                 text = f.read()
-            #file_for_end = file_path.split('.')[0]
-            filenames.append(file_path)
+            #filenames.append(file_path)
             text_data.append(text)
             labels.append(label)
-    return text_data, filenames
+    return text_data, labels
 
 def calculate_word_stats(texts, filenames):
     word_stats = {}
