@@ -20,7 +20,7 @@ text = soup.get_text()
 #with open("fitzgerald_babylon_annotated.jsonl", "w") as f:
     #for item in data:
         #f.write(json.dumps(item) + "\n")
-'''
+
 
 # That one doesn't work fantastically—reads Mr. Campbell and splits in there on the period ... let's try spaCy instead
 with open(r'data\fitzgerald\bablyon_revisited.txt', 'r') as f:
@@ -59,3 +59,14 @@ print(len(data))
 with open("fitzgerald_babylon_annotated.jsonl", "w") as f:
     for item in data:
         f.write(json.dumps(item) + "\n")
+'''
+
+filename = "fitzgerald_babylon_annotated_v0.jsonl"
+new_filename = "fitzgerald_babylon_annotated_v1.jsonl"
+
+with open(filename, "r") as f:
+    with open(new_filename, "w") as f_new:
+        for i, line in enumerate(f):
+            data = json.loads(line.strip())
+            data["sentence_number"] = i + 1
+            f_new.write(json.dumps(data) + "\n")
