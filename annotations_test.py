@@ -1,19 +1,61 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import nltk
+import spacy
+nlp = spacy.load('en_core_web_lg')
 
+'''
 url = "http://gutenberg.net.au/fsf/BABYLON-REVISITED.html"
 response = requests.get(url)
 soup = BeautifulSoup(response.content, "html.parser")
 text = soup.get_text()
+# Let's try NLTK's sentence tokenizer
+#sentences = nltk.sent_tokenize(text)
+#data = []
+#for i, sentence in enumerate(sentences):
+    #clean_sentence = sentence.replace("\\", "")
+    #data.append({"label": "", "sentence_number": i, "text": clean_sentence})
 
-text_chunks = text.split("\n\n")
+#with open("fitzgerald_babylon_annotated.jsonl", "w") as f:
+    #for item in data:
+        #f.write(json.dumps(item) + "\n")
+'''
+
+# That one doesn't work fantastically—reads Mr. Campbell and splits in there on the period ... let's try spaCy instead
+with open(r'data\fitzgerald\bablyon_revisited.txt', 'r') as f:
+    text = f.read()
+
+doc = nlp(text)
 
 data = []
+for i, sentence in enumerate(doc.sents, 1):
+    # Check if the sentence ends with a comma followed by a lowercase letter
+    if sentence[-2].text == "," and sentence[-1].text[0].islower():
+        # Merge the current sentence with the next sentence
+        next_sentence = next(doc.sents)
+        new_sentence = sentence[:-1] + next_sentence
+        doc.merge(new_sentence)
+        clean_sentence = str(new_sentence).replace("\n", "")
+        data.append({"label": "", "sentence_number": i, "text": clean_sentence})
+    elif sentence[-1].text == "?":
+        # Check if the next sentence starts with a lowercase letter
+        next_sentence = next(doc.sents)
+        if next_sentence[0].text[0].islower():
+            # Merge the current sentence with the next sentence
+            new_sentence = sentence + next_sentence
+            doc.merge(new_sentence)
+            clean_sentence = str(new_sentence).replace("\n\n", "")
+            data.append({"label": "", "sentence_number": i, "text": clean_sentence})
+        else:
+            clean_sentence = str(sentence).replace("\n\n", "")
+            data.append({"label": "", "sentence_number": i, "text": clean_sentence})
+    else:
+        clean_sentence = str(sentence).replace("\n\n", "")
+        data.append({"label": "", "sentence_number": i, "text": clean_sentence})
 
-for i, chunk in enumerate(text_chunks):
-    data.append("label": chunk_{}.format(i), "text": chunk)
+print(len(data))
 
-with open("babylon.jsonl", "w") as f:
+with open("fitzgerald_babylon_annotated.jsonl", "w") as f:
     for item in data:
         f.write(json.dumps(item) + "\n")

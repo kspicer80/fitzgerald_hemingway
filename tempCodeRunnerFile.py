@@ -1,0 +1,1 @@
+data.append({"label": "", "sentence_number": i, "text": clean_sentence})
