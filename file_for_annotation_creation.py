@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import pandas as pd
 import nltk
 import spacy
 nlp = spacy.load('en_core_web_lg')
@@ -59,7 +60,7 @@ print(len(data))
 with open("fitzgerald_babylon_annotated.jsonl", "w") as f:
     for item in data:
         f.write(json.dumps(item) + "\n")
-'''
+
 
 filename = "fitzgerald_babylon_annotated_v0.jsonl"
 new_filename = "fitzgerald_babylon_annotated_v1.jsonl"
@@ -70,3 +71,8 @@ with open(filename, "r") as f:
             data = json.loads(line.strip())
             data["sentence_number"] = i + 1
             f_new.write(json.dumps(data) + "\n")
+'''
+
+df = pd.read_json('fitzgerald_babylon_annotated_v1.jsonl', lines=True)
+
+print(df.head())
