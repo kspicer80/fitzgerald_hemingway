@@ -9,6 +9,7 @@ from sklearn.metrics import accuracy_score
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
 import transformers
+import spacy
 import numpy as np
 import os
 import pandas as pd
@@ -16,13 +17,12 @@ from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 class MetaphorCounter(BaseEstimator, TransformerMixin):
     def __init__(self):
-        print('\n>>>>>>>>>>>init() called.\n')
+        print('\n>>>>>>>>>>>MetaphorCounter() init() called.\n')
 
     def fit(self, X, y=None):
-        print('\n>>>>>>>>>>>fit() called.\n')
+        print('\n>>>>>>>>>>>MetaphorCounter() fit() called.\n')
         return self
 
     def process_text_with_hugging_face(self, texts: list):
@@ -47,9 +47,28 @@ class MetaphorCounter(BaseEstimator, TransformerMixin):
         return count
 
     def transform(self, X, y=None):
-        print('\n>>>>>>>>>>>transform(*) called.\n')
+        print('\n>>>>>>>>>>>MetaphorCounter() transform() called.\n')
         metaphor_counts = self.process_text_with_hugging_face(X)
-        return np.array(metaphor_counts).reshape(-1, 1)
+        #print(np.array(metaphor_counts).reshape(-1, 1))
+        #return np.array(metaphor_counts).reshape(-1, 1)
+class DependencyCounter(BaseEstimator, TransformerMixin):
+    def __init__(self):
+        self.nlp = spacy.load("en_core_web_lg")
+
+    def transform(self, X, y=None, **fit_params):
+        if X is None: return None
+        direct_object_counts = []
+        for text in X:
+            doc_text = self.nlp(text)
+            count = 0
+            for chunk in doc_text.noun_chunks:
+                if chunk.root.dep_ == 'dobj':
+                    count += 1
+            direct_object_counts.append(count)
+        return np.array(direct_object_counts).reshape(-1, 1)
+
+    def fit(self, X, y=None, **fit_params):
+        return self
 
 def load_data(folder_path):
     root_folder = folder_path
@@ -78,7 +97,10 @@ def load_data(folder_path):
     return text_data, labels
 
 text_data, labels = load_data('data')
+
+
 metaphor_counter = MetaphorCounter()
+dependency_counter = DependencyCounter()
 classifier = SVC(kernel='linear', max_iter=1000)
 
 #classifier = LinearSVC()
@@ -87,6 +109,7 @@ X_train, X_test, y_train, y_test = train_test_split(text_data, labels, test_size
 
 pipe1 = sklearn.pipeline.Pipeline([
     ('metaphor_counter', metaphor_counter),
+    ('dependency_counter', dependency_counter),
     ('classifier', classifier)
 ])
 
@@ -107,5 +130,6 @@ plt.xlabel("Predicted Label")
 plt.ylabel("True Label")
 plt.title("Confusion Matrix")
 plt.show()
-plt.savefig('svc_with_metaphor_counts.png')
+plt.savefig('conf_matrix_with_metaphor_and_dep_counter.png')
+
 
