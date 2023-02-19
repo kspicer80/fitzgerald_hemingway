@@ -1,4 +1,4 @@
-import os
+'''import os
 
 directory = r'data\hemingway'
 
@@ -12,4 +12,5 @@ for filename in os.listdir(directory):
                 print(f'The string "{search_string}" was found in {filename}.')
             else:
                 print(f'The string "{search_string}" was not found in any of the files.')
-                
+                '''
+
