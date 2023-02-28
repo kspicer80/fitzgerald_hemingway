@@ -54,9 +54,9 @@ plt.ylabel('True Label')
 plt.title('Confusion Matrix')
 plt.show()
 
-'''
+
 # Define a new text sample to classify—Hemingway's "The Snows of Kilimanjaro"
-with open(r'test_data\hemingway_snows.txt') as f:
+with open(r'C:\Users\KSpicer\Documents\GitHub\fitzgerald_hemingway\test_data\steinbeck_in_dubious_battle.txt') as f:
     new_text =  f.read()
 
 # Transform the new text sample into a bag-of-words representation
@@ -70,5 +70,5 @@ if new_pred == 1:
     print("The model predicts that this text is by Hemingway ...")
 else:
     print("The model predicts that this text is by Fitzgerald ...")
-'''
+
 
