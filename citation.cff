@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Kevin"
+  given-names: "Spicer"
+title: "fitzgerald_hemingway_classification_code"
+date-released: 2023-02-28
+url: "https://github.com/kspicer80/fitzgerald_hemingway"
