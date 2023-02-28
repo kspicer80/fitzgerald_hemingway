@@ -77,6 +77,34 @@ def calculate_word_stats(texts, filenames):
         word_stats[filename] = (len(sentences), avg_sentence_length)
     return word_stats
 
+def load_just_hemingway_and_steinbeck(folder_path):
+    root_folder = folder_path
+
+    #filenames = []
+    text_data = [] # Replace with the text data
+    labels = [] # Replace with the corresponding labels (0 or 1)
+
+    for subfolder in os.listdir(root_folder):
+        if subfolder == 'fitzgerald':
+            continue
+        subfolder_path = os.path.join(root_folder, subfolder)
+
+        if subfolder == 'hemingway':
+            label = 'hemingway'
+        else:
+            label = 'steinbeck'
+
+        for file in os.listdir(subfolder_path):
+            file_path = os.path.join(subfolder_path, file)
+            print("Processing file:", file)
+            with open(file_path, 'r', encoding="utf-8") as f:
+                text = f.read()
+            #filenames.append(file_path)
+            text_data.append(text)
+            labels.append(label)
+    return text_data, labels
+
+'''
 text_data, filenames = load_data('data')
 word_stats_dict = calculate_word_stats(text_data, filenames)
 
@@ -84,3 +112,4 @@ import json
 
 with open('word_stats', 'w') as f:
     json.dump(word_stats_dict, f)
+'''
