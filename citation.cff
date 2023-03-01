@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 authors:
-- family-names: "Kevin"
+- family-names: "Kevin Andrew"
   given-names: "Spicer"
 title: "Code to Classify Texts by F. Scott Fitzgerald and Ernest Hemingway"
 date-released: 2023-02-28
