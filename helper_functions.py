@@ -91,9 +91,36 @@ def load_just_hemingway_and_steinbeck(folder_path):
         subfolder_path = os.path.join(root_folder, subfolder)
 
         if subfolder == 'hemingway':
-            label =
+            label = 0
         else:
-            label = 'steinbeck'
+            label = 1
+
+        for file in os.listdir(subfolder_path):
+            file_path = os.path.join(subfolder_path, file)
+            print("Processing file:", file)
+            with open(file_path, 'r', encoding="utf-8") as f:
+                text = f.read()
+            #filenames.append(file_path)
+            text_data.append(text)
+            labels.append(label)
+    return text_data, labels
+
+def load_data_for_all_three(folder_path):
+    root_folder = folder_path
+
+    #filenames = []
+    text_data = [] # Replace with the text data
+    labels = [] # Replace with the corresponding labels (0 or 1)
+
+    for subfolder in os.listdir(root_folder):
+        subfolder_path = os.path.join(root_folder, subfolder)
+
+        if subfolder == 'fitzgerald':
+            label = 0
+        elif subfolder == 'hemingway':
+            label = 1
+        else:
+            label = 2
 
         for file in os.listdir(subfolder_path):
             file_path = os.path.join(subfolder_path, file)

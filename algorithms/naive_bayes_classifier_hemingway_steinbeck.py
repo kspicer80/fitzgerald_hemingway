@@ -100,7 +100,7 @@ cm = confusion_matrix(y_test, y_pred)
 classes = ['hemingway', 'steinbeck']
 
 # plot the confusion matrix
-sns.heatmap(cm, annot=True, fmt='d', cmap='viridis', xticklabels=classes, yticklabels=classes)
+sns.heatmap(cm, annot=True, fmt='d', cmap='magma', xticklabels=classes, yticklabels=classes)
 
 # add axis labels and title
 plt.xlabel('Predicted Label')
