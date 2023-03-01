@@ -43,8 +43,32 @@ def load_just_hemingway_and_steinbeck(folder_path):
             labels.append(label)
     return text_data, labels
 
+def load_just_hemingway_and_steinbeck_v1(folder_path, subfolders):
+    root_folder = folder_path
+
+    text_data = []
+    labels = []
+
+    for subfolder in subfolders:
+        subfolder_path = os.path.join(root_folder, subfolder)
+
+        if subfolder == 'hemingway':
+            label = 1
+        else:
+            label = 0
+
+        for file in os.listdir(subfolder_path):
+            file_path = os.path.join(subfolder_path, file)
+            print("Processing file:", file)
+            with open(file_path, 'r', encoding="utf-8") as f:
+                text = f.read()
+            text_data.append(text)
+            labels.append(label)
+    return text_data, labels
+
 # Load the data
-text_data, labels = load_just_hemingway_and_steinbeck('data')
+subfolders = ['hemingway', 'steinbeck']
+text_data, labels = load_just_hemingway_and_steinbeck_v1('data', subfolders)
 df = pd.DataFrame(list(zip(text_data, labels)), columns=['text_data', 'label'])
 
 X = df['text_data']
@@ -66,9 +90,9 @@ nb.fit(X_train_vec, y_train)
 accuracy = nb.score(X_test_vec, y_test)
 print(f"The accuracy score for this NaiveBayes Classifier is: {accuracy}")
 
-# Predict the class labels for the test set
+# Predict the class labels for the test set and print out a classification report
 y_pred = nb.predict(X_test_vec)
-
+print(classification_report(y_test, y_pred, target_names=['hemingway', 'steinbeck']))
 # Compute the confusion matrix
 cm = confusion_matrix(y_test, y_pred)
 

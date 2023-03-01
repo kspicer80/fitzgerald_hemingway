@@ -3,6 +3,7 @@ import os
 from statistics import mean
 import spacy
 nlp = spacy.load('en_core_web_lg')
+nlp.max_length = 2000000
 from sklearn.base import BaseEstimator, TransformerMixin
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
@@ -85,12 +86,12 @@ def load_just_hemingway_and_steinbeck(folder_path):
     labels = [] # Replace with the corresponding labels (0 or 1)
 
     for subfolder in os.listdir(root_folder):
-        if subfolder == 'fitzgerald':
+        if subfolder == 'steinbeck':
             continue
         subfolder_path = os.path.join(root_folder, subfolder)
 
         if subfolder == 'hemingway':
-            label = 'hemingway'
+            label =
         else:
             label = 'steinbeck'
 

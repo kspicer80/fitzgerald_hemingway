@@ -1,4 +1,4 @@
-from helper_functions import load_data
+import os
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -8,12 +8,38 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 import spacy
 nlp = spacy.load('en_core_web_lg')
+nlp.max_length = 2000000
 
 def preprocess(text):
     doc = nlp(text)
     # Remove stop words and punctuation
     tokens = [token.text.lower() for token in doc if not token.is_stop and not token.is_punct]
     return " ".join(tokens)
+
+def load_data(folder_path):
+    root_folder = folder_path
+
+    #filenames = []
+    text_data = [] # Replace with the text data
+    labels = [] # Replace with the corresponding labels (0 or 1)
+
+    for subfolder in os.listdir(root_folder):
+        subfolder_path = os.path.join(root_folder, subfolder)
+
+        if subfolder == 'fitzgerald':
+            label = 0
+        else:
+            label = 1
+
+        for file in os.listdir(subfolder_path):
+            file_path = os.path.join(subfolder_path, file)
+            print("Processing file:", file)
+            with open(file_path, 'r', encoding="utf-8") as f:
+                text = f.read()
+            #filenames.append(file_path)
+            text_data.append(text)
+            labels.append(label)
+    return text_data, labels
 
 # Load the data
 text_data, labels = load_data('data')
@@ -40,7 +66,7 @@ print(f"The accuracy score for this NaiveBayes Classifier is: {accuracy}")
 
 # Predict the class labels for the test set
 y_pred = nb.predict(X_test_vec)
-
+print(classification_report(y_test, y_pred, target_names=['fitzgerald', 'hemingway']))
 # Compute the confusion matrix
 cm = confusion_matrix(y_test, y_pred)
 
