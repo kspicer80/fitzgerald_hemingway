@@ -1,5 +1,4 @@
-The Short Happy Life of
-Francis Macomber
+# The Short Happy Life of Francis Macomber
 
 IT WAS NOW LUNCH TIME AND THEY WERE all sitting under the
 double green fly of the dining tent pretending that nothing had happened.
@@ -870,7 +869,7 @@ Wilson looked at her with his flat blue eyes.
 “Oh, please stop it,” she said. “Please stop it.”
 “That’s better,” Wilson said. “Please is much better. Now I’ll stop.”
 
-The Capital of the World
+# The Capital of the World
 
 MADRID IS FULL OF BOYS NAMED PACO, which is the
 diminutive of the name Francisco, and there is a Madrid joke about a father who came to Madrid and
@@ -1187,7 +1186,7 @@ in Africa. Its western summit is called the Masai “Ngàje Naài,” the House 
 western summit there is the dried and frozen carcass of a leopard. No one has explained what the
 leopard was seeking at that altitude.
 
-The Snows of Kilimanjaro
+# The Snows of Kilimanjaro
 
 “THE
 
@@ -1823,7 +1822,7 @@ Then she said, “Harry, Harry!” Then her voice rising, “Harry! Please. Oh H
 Outside the tent the hyena made the same strange noise that had awakened her. But she did not
 hear him for the beating of her heart.
 
-Old Man at the Bridge
+# Old Man at the Bridge
 
 AN OLD MAN WITH STEEL RIMMED SPEC tacles and very dusty
 clothes sat by the side of the road. There was a pontoon bridge across the river and carts, trucks, and
@@ -1887,7 +1886,7 @@ toward the Ebro. It was a gray overcast day with a low ceiling so their planes w
 the fact that cats know how to look after themselves was all the good luck that old man would ever
 have.
 
-Up in Michigan
+# Up in Michigan
 
 JIM GILMORE CAME TO HORTONS BAY from Canada. He bought
 the blacksmith shop from old man Horton. Jim was short and dark with big mustaches and big hands.
@@ -2009,7 +2008,7 @@ Jim stirred and curled a little tighter. Liz took off her coat and leaned over a
 it. She tucked it around him neatly and carefully. Then she walked across the dock and up the steep
 sandy road to go to bed. A cold mist was coming up through the woods from the bay.
 
-On the Quai at Smyrna
+# On the Quai at Smyrna
 
 THE STRANGE THING WAS, HE SAID, HOW they screamed every
 night at midnight. I do not know why they screamed at that time. We were in the harbor and they were
@@ -2055,7 +2054,7 @@ The Greeks were nice chaps too. When they evacuated they had all their baggage a
 All those mules with their forelegs broken pushed over into the shallow water. It was all a pleasant
 business. My word yes a most pleasant business.
 
-CHAPTER I
+# CHAPTER I
 
 Everybody was drunk. The whole battery was drunk going along the road in the dark. We were
 going to the Champagne. The lieutenant kept riding his horse out into the fields and saying to him,
@@ -2065,7 +2064,7 @@ dangerous. It will be observed.” We were fifty kilometers from the front but t
 about the fire in my kitchen. It was funny going along that road. That was when I was a kitchen
 corporal.
 
-Indian Camp
+# Indian Camp
 
 AT THE LAKE
 
@@ -2185,7 +2184,7 @@ in the sharp chill of the morning.
 In the early morning on the lake sitting in the stern of the boat with his father rowing, he felt quite
 sure that he would never die.
 
-CHAPTER II
+# CHAPTER II
 
 Minarets stuck up in the rain out of Adrianople across the mud flats. The carts were jammed for
 thirty miles along the Karagatch road. Water buffalo and cattle were hauling carts through the
@@ -2197,8 +2196,7 @@ crouched with mattresses, mirrors, sewing machines, bundles. There was a woman h
 with a young girl holding a blanket over her and crying. Scared sick looking at it. It rained all
 through the evacuation.
 
-The Doctor and the
-Doctor’s Wife
+# The Doctor and the Doctor’s Wife
 
 DICK BOULTON CAME FROM THE INDIAN camp to cut up
 logs for Nick’s father. He brought his son Eddy and another Indian named Billy Tabeshaw with him.
@@ -2306,7 +2304,7 @@ His father looked down at him.
 “I know where there’s black squirrels, Daddy,” Nick said.
 “All right,” said his father. “Let’s go there.”
 
-CHAPTER III
+# CHAPTER III
 
 We were in a garden at Mons. Young Buckley came in with his patrol from across the river. The
 first German I saw climbed up over the garden wall. We waited till he got one leg over and then
@@ -2314,7 +2312,7 @@ potted him. He had so much equipment on and looked awfully surprised and fell do
 garden. Then three more came over farther down the wall. We shot them. They all came just like
 that.
 
-The End of Something
+# The End of Something
 
 IN THE OLD DAYS HORTONS BAY WAS A lumbering town. No
 one who lived in it was out of sound of the big saws in the mill by the lake. Then one year there were
@@ -2431,7 +2429,7 @@ around through the woods. He felt Bill coming up to the fire. Bill didn’t touc
 “Oh, go away, Bill! Go away for a while.”
 Bill selected a sandwich from the lunch basket and walked over to have a look at the rods.
 
-CHAPTER IV
+# CHAPTER IV
 
 It was a frightfully hot day. We’d jammed an absolutely perfect barricade across the bridge. It was
 simply priceless. A big old wrought-iron grating from the front of a house. Too heavy to lift and
@@ -2440,7 +2438,7 @@ tried taget over it, and we potted them from forty yards. They rushed it, and of
 alone and worked on it. It was an absolutely perfect obstacle. Their officers were very fine. We
 were frightfully put out when we heard the flank had gone, and we had to fall back.
 
-The Three-Day Blow
+# The Three-Day Blow
 
 THE RAIN STOPPED AS NICK TURNED INTO the road that went
 up through the orchard. The fruit had been picked and the fall wind blew through the bare trees. Nick
@@ -2750,7 +2748,7 @@ Against the wind they heard the thud of a shotgun.
 None of it was important now. The wind blew it out of his head. Still he could always go into
 town Saturday night. It was a good thing to have in reserve.
 
-CHAPTER V
+# CHAPTER V
 
 They shot the six cabinet ministers at half-past six in the morning against the wall of a hospital.
 There were pools of water in the courtyard. There were wet dead leaves on the paving of the
@@ -2760,7 +2758,7 @@ hold him up against the wall but he sat down in a puddle of water. The other fiv
 against the wall. Finally the officer told the soldiers it was no good trying to make him stand up.
 When they fired the first volley he was sitting down in the water with his head on his knees.
 
-The Battler
+# The Battler
 
 NICK STOOD UP. HE WAS ALL RIGHT. HE looked up the track at
 the lights of the caboose going out of sight around the curve. There was water on both sides of the
@@ -3020,7 +3018,7 @@ Nick climbed the embankment and started up the track. He found he had a ham sand
 hand and put it in his pocket. Looking back from the mounting grade before the track curved into the
 hills he could see the firelight in the clearing.
 
-CHAPTER VI
+# CHAPTER VI
 
 Nick sat against the wall of the church where they had dragged him to be clear of machine-gun
 fire in the street. Both legs stuck out awkwardly. He had been hit in the spine. His face was sweaty
@@ -3034,7 +3032,7 @@ You and me we’ve made a separate peace.” Rinaldi lay still in the sun breath
 “Not patriots.” Nick turned his head carefully away smiling sweatily. Rinaldi was a disappointing
 audience.
 
-A Very Short Story
+# A Very Short Story
 
 ONE HOT EVENING IN PADUA THEY CAR ried him up onto the
 roof and he could look out over the top of the town. There were chimney swifts in the sky. After a
@@ -3073,7 +3071,7 @@ The major did not marry her in the spring, or any other time. Luz never got an a
 to Chicago about it. A short time after he contracted gonorrhea from a sales girl in a loop department
 store while riding in a taxicab through Lincoln Park.
 
-CHAPTER VII
+# CHAPTER VII
 
 While the bombardment was knocking the trench to pieces at Fossalta, he lay very flat and sweated
 and prayed oh jesus christ get me out of here. Dear jesus please get me out. Christ please please
@@ -3084,7 +3082,7 @@ came up and the day was hot and muggy and cheerful and quiet. The next night bac
 did not tell the girl he went upstairs with at the Villa Rossa about Jesus. And he never told
 anybody.
 
-Soldier’s Home
+# Soldier’s Home
 
 KREBS WENT TO THE WAR FROM A METHodist college in
 Kansas. There is a picture which shows him among his fraternity brothers, all of them wearing exactly
@@ -3292,7 +3290,7 @@ would not go down to his father’s office. He would miss that one. He wanted hi
 It had just gotten going that way. Well, that was all over now, anyway. He would go over to the
 schoolyard and watch Helen play indoor baseball.
 
-CHAPTER VIII
+# CHAPTER VIII
 
 At two o’clock in the morning two Hungarians got into a cigar store at Fifteenth Street and Grand
 Avenue. Drevitts and Boyle drove up from the Fifteenth Street police station in a Ford. The
@@ -3305,7 +3303,7 @@ make any trouble?
 you bumped them?
 Wops, said Boyle, I can tell wops a mile off.
 
-The Revolutionist
+# The Revolutionist
 
 IN 1919 HE WAS TRAVELLING ON THE railroads in Italy,
 carrying a square of oilcloth from the headquarters of the party written in indelible pencil and saying
@@ -3332,7 +3330,7 @@ thanked me very much, but his mind was already looking forward to walking over t
 very eager to walk over the pass while the weather held good. He loved the mountains in the autumn.
 The last I heard of him the Swiss had him in jail near Sion.
 
-CHAPTER IX
+# CHAPTER IX
 
 The first matador got the horn through his sword hand and the crowd hooted him. The second
 matador slipped and the bull caught him through the belly and he hung on to the horn with one
@@ -3345,7 +3343,7 @@ quiet because it was a good bull and it looked like him or the bull and then he 
 sat down in the sand and puked and they held a cape over him while the crowd hollered and threw
 things down into the bull ring.
 
-Mr. and Mrs. Elliot
+# Mr. and Mrs. Elliot
 
 MR. AND MRS. ELLIOT TRIED VERY HARD to have a baby. They
 tried as often as Mrs. Elliot could stand it. They tried in Boston after they were married and they tried
@@ -3430,7 +3428,7 @@ now slept together in the big mediæval bed. They had many a good cry together. 
 all sat at dinner together in the garden under a plane tree and the hot evening wind blew and Elliot
 drank white wine and Mrs. Elliot and the girl friend made conversation and they were all quite happy.
 
-CHAPTER X
+# CHAPTER X
 
 They whack-whacked the white horse on the legs and he kneed himself up. The picador twisted the
 stirrups straight and pulled and hauled up into the saddle. The horse’s entrails hung down in a
@@ -3440,7 +3438,7 @@ of the monos held his bridle and walked him forward. The picador kicked in his s
 forward and shook his lance at the bull. Blood pumped regularly from between the horse’s front
 legs. He was nervously wobbly. The bull could not make up his mind to charge.
 
-Cat in the Rain
+# Cat in the Rain
 
 THERE WERE ONLY TWO AMERICANS stopping at the hotel.
 They did not know any of the people they passed on the stairs on their way to and from their room.
@@ -3530,7 +3528,7 @@ swung down against her body.
 
 “Excuse me,” she said, “the padrone asked me to bring this for the Signora.”
 
-CHAPTER XI
+# CHAPTER XI
 
 The crowd shouted all the time and threw pieces of bread down into the ring, then cushions and
 leather wine bottles, keeping up whistling and yelling. Finally the bull was too tired from so much
@@ -3541,7 +3539,7 @@ grabbed it and ran away with it. Afterwards I saw him at the café. He was very 
 face and quite drunk and he said after all it has happened before like that. I am not really a good
 bull fighter.
 
-Out of Season
+# Out of Season
 
 ON THE FOUR LIRE PEDUZZI HAD EARNED by spading the hotel
 garden he got quite drunk. He saw the young gentleman coming down the path and spoke to him
@@ -3702,7 +3700,7 @@ Signora. The three of us.”
 “I may not be going,” said the young gentleman, “very probably not. I will leave word with the
 padrone at the hotel office.”
 
-CHAPTER XII
+# CHAPTER XII
 
 If it happened right down close in front of you, you could see Villalta snarl at the bull and curse
 him, and when the bull charged he swung back firmly like an oak when the wind hits it, his legs
@@ -3716,7 +3714,7 @@ moment they became one. Villalta became one with the bull and then it was over. 
 straight and the red hilt of the sword sticking out dully between the bull’s shoulders. Villalta, his
 hand up at the crowd and the bull roaring blood, looking straight at Villalta and his legs caving.
 
-Cross-Country Snow
+# Cross-Country Snow
 
 THE FUNICULAR CAR BUCKED ONCE MORE and then stopped. It
 could not go farther, the snow drifted solidly across the track. The gale scouring the exposed surface
@@ -3868,7 +3866,7 @@ They took down their skis from where they leaned against the wall in the inn. Ni
 gloves. George was already started up the road, his skis on his shoulder. Now they would have the
 run home together.
 
-CHAPTER XIII
+# CHAPTER XIII
 
 I heard the drums coming down the street and then the fifes and the pipes and then they came
 around the corner, all dancing. The street was full of them. Maera saw him and then I saw him.
@@ -3890,7 +3888,7 @@ We, I suppose, I said.
 Yes, we, said Maera. We kills the savages ’ bulls, and the drunkards’ bulls, and the riau-riau
 dancers’ bulls. Yes. We kill them. We kill them all right. Yes. Yes. Yes.
 
-My Old Man
+# My Old Man
 
 I GUESS LOOKING AT IT, NOW, MY OLD man was cut out for a fat
 guy, one of those regular little roly fat guys you see around, but he sure never got that way, except a
@@ -4214,7 +4212,7 @@ And George Gardner looked at me to see if I’d heard and I had all right and he
 listen to what those bums said, Joe. Your old man was one swell guy.”
 But I don’t know. Seems like when they get started they don’t leave a guy nothing.
 
-CHAPTER XIV
+# CHAPTER XIV
 
 Maera lay still his head on his arms, his face in the sand. He felt warm and sticky from the
 bleeding. Each time he felt the horn coming. Sometimes the bull only bumped him with his head.
@@ -4229,7 +4227,7 @@ larger and then smaller and smaller. Then it got larger and larger and larger an
 and smaller. Then everything commenced to run faster and faster as when they speed up a
 cinematograph film. Then he was dead.
 
-Big Two-Hearted River
+# Big Two-Hearted River
 Part I
 
 THE TRAIN WENT ON UP THE TRACK OUT of sight, around one of
@@ -4735,7 +4733,7 @@ water and splashed ashore. He climbed the bank and cut up into the woods, toward
 He was going back to camp. He looked back. The river just showed through the trees. There were
 plenty of days coming when he could fish the swamp.
 
-L’ENVOI
+# L’ENVOI
 
 The king was working in the garden. He seemed very glad to see me. We walked through the
 garden. This is the queen, he said. She was clipping a rose bush. Oh how do you do, she said. We
@@ -4746,7 +4744,7 @@ did right though shooting those chaps. If Kerensky had shot a few men things mig
 altogether different. Of course the great thing in this sort of an affair is not to be shot oneself!
 It was very jolly. We talked for a long time. Like all Greeks he wanted to go to America.
 
-The Undefeated
+# The Undefeated
 
 MANUEL GARCIA CLIMBED THE STAIRS to Don Miguel
 Retana’s office. He set down his suitcase and knocked on the door. There was no answer. Manuel,
@@ -5572,7 +5570,7 @@ Manuel opened his eyes and looked at Zurito.
 The doctor’s assistant put the cone over Manuel’s face and he inhaled deeply. Zurito stood
 awkwardly, watching.
 
-In Another Country
+# In Another Country
 
 IN THE FALL THE WAR WAS ALWAYS there, but we did not go to
 it any more. It was cold in the fall in Milan and the dark came very early. Then the electric lights
@@ -5709,7 +5707,7 @@ were completely restored. I do not know where the doctor got them. I always unde
 first to use the machines. The photographs did not make much difference to the major because he only
 looked out of the window.
 
-Hills Like White Elephants
+# Hills Like White Elephants
 
 THE HILLS ACROSS THE VALLEY OF THE Ebro were long and
 white. On this side there was no shade and no trees and the station was between two lines of rails in
@@ -5851,7 +5849,7 @@ table and smiled at him.
 “Do you feel better?” he asked.
 “I feel fine,” she said. “There’s nothing wrong with me. I feel fine.”
 
-The Killers
+# The Killers
 
 THE
 
@@ -6157,7 +6155,7 @@ They did not say anything. George reached down for a towel and wiped the counter
 damned awful.”
 “Well,” said George, “you better not think about it.”
 
-Che Ti Dice la Patria?
+# Che Ti Dice la Patria?
 
 THE ROAD OF THE PASS WAS HARD AND smooth and not yet
 dusty in the early morning. Below were the hills with oak and chestnut trees, and far away below was
@@ -6328,7 +6326,9 @@ all the time we were at lunch. The girl brought us our change that the old woman
 and went back to her place at the table. We left a tip on the table and went out. When we were seated
 in the car ready to start, the girl came out and stood in the door. We started and I waved to her. She
 did not wave, but stood there looking after us.
-AFTER THE RAIN
+
+# AFTER THE RAIN
+
 It was raining hard when we passed through the suburbs of Genoa and, even going very slowly behind
 the tram-cars and the motor trucks, liquid mud splashed on to the sidewalks, so that people stepped
 
@@ -6418,7 +6418,7 @@ Romagna to Rimini, back through Forli, Imola, Bologna, Parma, Piacenza and Genoa
 again. The whole trip had taken only ten days. Naturally, in such a short trip, we had no opportunity to
 see how things were with the country or the people.
 
-Fifty Grand
+# Fifty Grand
 
 “HOW ARE YOU GOING YOURSELF, Jack?” I asked him.
 “You seen this Walcott?” he says.
@@ -7140,7 +7140,7 @@ He lies there, his eyes are open now. His face has still got that awful drawn lo
 “You’re some boy, Jack,” John says.
 “No,” Jack says. “It was nothing.”
 
-A Simple Enquiry
+# A Simple Enquiry
 
 OUTSIDE, THE SNOW WAS HIGHER THAN the window. The
 sunlight came in through the window and shone on a map on the pineboard wall of the hut. The sun
@@ -7216,7 +7216,7 @@ he brought in the wood for the fire. The adjutant looked after him and smiled. P
 wood for the stove. The major, lying on his bunk, looking at his cloth-covered helmet and his snowglasses that hung from a nail on the wall, heard him walk across the floor. The little devil, he thought,
 I wonder if he lied to me.
 
-Ten Indians
+# Ten Indians
 
 AFTER ONE FOURTH OF JULY, NICK, DRIVing home late from
 town in the big wagon with Joe Garner and his family, passed nine drunken Indians along the road. He
@@ -7376,7 +7376,7 @@ of the lake coming in on the shore, and he went back to sleep. In the morning th
 blowing and the waves were running high up on the beach and he was awake a long time before he
 remembered that his heart was broken.
 
-A Canary for One
+# A Canary for One
 
 THE TRAIN PASSED VERY QUICKLY A LONG , red stone house
 with a garden and four thick palm-trees with tables under them in the shade. On the other side was the
@@ -7496,7 +7496,7 @@ We followed the porter with the truck down the long cement platform beside the t
 was a gate and a man took the tickets.
 We were returning to Paris to set up separate residences.
 
-An Alpine Idyll
+# An Alpine Idyll
 
 IT WAS HOT COMING DOWN INTO THE VAL ley even in the early
 morning. The sun melted the snow from the skis we were carrying and dried the wood. It was spring
@@ -7662,7 +7662,7 @@ hung the lantern from it.’
 “Say,” said John. “How about eating?”
 “All right,” I said.
 
-A Pursuit Race
+# A Pursuit Race
 
 WILLIAM CAMPBELL HAD BEEN IN A PUR suit race with a
 burlesque show ever since Pittsburgh. In a pursuit race, in bicycle racing, riders start at equal
@@ -7792,7 +7792,7 @@ But when Mr. Turner came up to William Campbell’s room at noon William Campbel
 sleeping and as Mr. Turner was a man who knew what things in life were very valuable he did not
 wake him.
 
-Today Is Friday
+# Today Is Friday
 
 Three Roman soldiers are in a drinking-place at eleven
 o’clock at night. There are barrels around the wall. Behind the wooden counter is a Hebrew wineseller. The three Roman soldiers are a little cock-eyed.
@@ -7899,7 +7899,7 @@ Wine-seller—It’s all right, Lootenant. Good-night, gentlemen.
 2d Soldier—You been out here too long. That’s all.
 CURTAIN
 
-Banal Story
+# Banal Story
 
 SO HE ATE AN ORANGE, SLOWLY SPITTING out the seeds.
 Outside, the snow was turning to rain. Inside, the electric stove seemed to give no heat and rising
@@ -7950,7 +7950,7 @@ cemetery, where they buried him in the tomb next to Joselito. After the funeral 
 cafés out of the rain, and many colored pictures of Maera were sold to men who rolled them up and
 put them away in their pockets.
 
-Now I Lay Me
+# Now I Lay Me
 
 THAT NIGHT WE LAY ON THE FLOOR IN the room and I listened
 to the silk-worms eating. The silk-worms fed in racks of mulberry leaves and all night you could hear
@@ -8164,7 +8164,7 @@ in Milan to see me several months after and was very disappointed that I had not
 know he would feel very badly if he knew that, so far, I have never married. He was going back to
 America and he was very certain about marriage and knew it would fix up everything.
 
-After the Storm
+# After the Storm
 
 IT WASN’T ABOUT ANYTHING, SOME thing about making punch,
 and then we started fighting and I slipped and he had me down kneeling on my chest and choking me
@@ -8305,7 +8305,7 @@ belts too. They must have took it inside. Well, the Greeks got it all. Everythin
 fast all right. They picked her clean. First there was the birds, then me, then the Greeks, and even the
 birds got more out of her than I did.
 
-A Clean, Well-Lighted Place
+# A Clean, Well-Lighted Place
 
 IT WAS LATE AND EVERY ONE HAD LEFT the café except an old
 man who sat in the shadow the leaves of the tree made against the electric light. In the day time the
@@ -8432,7 +8432,7 @@ The barman looked at him but did not answer. It was too late at night for conver
 He would lie in the bed and finally, with daylight, he would go to sleep. After all, he said to himself,
 it is probably only insomnia. Many must have it.
 
-The Light of the World
+# The Light of the World
 
 WHEN HE SAW US COME IN THE DOOR the bartender looked up
 and then reached over and put the glass covers on the two free-lunch bowls.
@@ -8623,8 +8623,7 @@ women. Tom saw me looking at her and he said, “Come on. Let’s go.”
 “Which way are you boys going?” asked the cook.
 “The other way from you,” Tom told him.
 
-God Rest You Merry,
-Gentlemen
+# God Rest You Merry, Gentlemen
 
 IN THOSE DAYS THE DISTANCES WERE ALL very different, the
 dirt blew off the hills that now have been cut down, and Kansas City was very like Constantinople.
@@ -8752,7 +8751,7 @@ brought him in? He said, ‘Oh, I asked you to do it. I asked you so many times 
 point, my achilles tendon so to speak, the doctor pursues his advantage.”
 “You’re too damned smart,” Doctor Wilcox said.
 
-The Sea Change
+# The Sea Change
 
 “ALL RIGHT,” SAID THE MAN. “WHAT about it?”
 “No,” said the girl, “I can’t.”
@@ -8874,7 +8873,7 @@ saw himself in the mirror behind the bar. “I said I was a different man, James
 the mirror he saw that this was quite true.
 “You look very well, sir,” James said. “You must have had a very good summer.”
 
-A Way You’ll Never Be
+# A Way You’ll Never Be
 
 THE ATTACK HAD GONE ACROSS THE field, been held up by
 machine-gun fire from the sunken road and from the group of farm houses, encountered no resistance
@@ -9191,7 +9190,7 @@ made plumes in the cold air. No, that was somewhere else. Where was that?
 “I’d better get to that damned bicycle,” Nick said to himself. “I don’t want to lose the way to
 Fornaci.”
 
-The Mother of a Queen
+# The Mother of a Queen
 
 WHEN HIS FATHER DIED HE WAS ONLY A kid and his manager
 buried him perpetually. That is, so he would have the plot permanently. But when his mother died his
@@ -9304,7 +9303,7 @@ money on themselves or for vanity, but they never pay. Try to get one to pay. I 
 of him right there on the Gran Via, in front of three friends, but he speaks to me now when I meet him
 as though we were friends. What kind of blood is it that makes a man like that?
 
-One Reader Writes
+# One Reader Writes
 
 SHE SAT AT THE TABLE IN HER BEDROOM with a newspaper
 folded open before her and only stopping to look out of the window at the snow which was falling
@@ -9337,7 +9336,7 @@ did to get it. But I wish to Christ he hadn’t ever got it. It does seem like h
 don’t know what to do. I wish to Christ he hadn’t got any kind of malady. I don’t know why he had to
 get a malady.
 
-Homage to Switzerland
+# Homage to Switzerland
 
 PART I
 PORTRAIT OF MR. WHEELER IN MONTREUX
@@ -9698,7 +9697,7 @@ Society, Washington, D. C., U. S. A.
 
 “I will keep it very carefully,” Harris said.
 
-A Day’s Wait
+# A Day’s Wait
 
 HE CAME INTO THE ROOM TO SHUT THE windows while we
 were still in bed and I saw he looked ill. He was shivering, his face was white, and he walked slowly
@@ -9792,8 +9791,7 @@ make when we do seventy miles in the car?”
 But his gaze at the foot of the bed relaxed slowly. The hold over himself relaxed too, finally, and
 the next day it was very slack and he cried very easily at little things that were of no importance.
 
-A Natural History of the
-Dead
+# A Natural History of the Dead
 
 IT HAS ALWAYS SEEMED TO ME THAT THE war has been omitted
 as a field for the observations of the naturalist. We have charming and sound accounts of the flora and
@@ -10020,7 +10018,7 @@ blinded me!”
 all references to fashions, dates the story but it is retained because of its mild historical interest and
 because its omission would spoil the rhythm.
 
-Wine of Wyoming
+# Wine of Wyoming
 
 IT WAS A HOT AFTERNOON IN WYOMING; the mountains were a
 long way away and you could see snow on their tops, but they made no shadow, and in the valley the
@@ -10465,8 +10463,7 @@ hillside below.
 “We ought to have gone last night.”
 “Oh, yes,” I said. “We ought to have gone.”
 
-The Gambler, The Nun, and
-the Radio
+# The Gambler, The Nun, and the Radio
 
 THEY BROUGHT THEM IN AROUND MID -night and then, all night
 long, every one along the corridor heard the Russian.
@@ -10948,7 +10945,7 @@ They would go now in a little while, he thought, and they would take the Cucarac
 Then he would have a little spot of the giant killer and play the radio, you could play the radio so that
 you could hardly hear it.
 
-Fathers and Sons
+# Fathers and Sons
 
 THERE HAD BEEN A SIGN TO DETOUR IN the center of the main
 street of this town, but cars had obviously gone through, so, believing it was some repair which had
@@ -11238,13 +11235,7 @@ at the ranch?”
 “Well, I don’t feel good never to have even visited the tomb of my grandfather.”
 “We’ll have to go,” Nick said. “I can see we’ll have to go.”
 
-Part II
-
-Short Stories Published in Books
-or Magazines Subsequent to
-“The First Forty-nine”
-
-One Trip Across
+# One Trip Across
 
 YOU KNOW HOW IT IS THERE EARLY IN the morning in Havana
 with the bums still asleep against the walls of the buildings; before even the ice wagons come by with
@@ -12337,7 +12328,7 @@ I felt good to be getting back and I had a good stake now for the summertime.
 “What do you say about a drink, Eddy?” I said to him.
 “Ah, Harry,” he said, “I always knew you were my pal.”
 
-The Tradesman’s Return
+# The Tradesman’s Return
 
 THEY CAME ON ACROSS IN THE NIGHT AND it blew a big breeze
 from the northwest. When the sun was up he sighted a tanker coming down the gulf and she stood up
@@ -12694,7 +12685,7 @@ Above the roar of the motors and the high, slapping rush of the boat through the
 strange hollow singing in his heart. He always felt this way coming home at the end of a trip. I hope
 they can fix that arm, he thought. I got a lot of use for that arm.
 
-The Denunciation
+# The Denunciation
 
 CHICOTE’S IN THE OLD DAYS IN MADRID was a place sort of
 like The Stork, without the music and the debutantes, or the Waldorfs men’s bar if they let girls in.
@@ -13024,7 +13015,7 @@ glad I had called my friend Pepé at Seguridad headquarters because Luis Delgado
 of Chicote’s and I did not wish him to be disillusioned or bitter about the waiters there before he
 died.
 
-The Butterfly and the Tank
+# The Butterfly and the Tank
 
 ON THIS EVENING I WAS WALKING HOME from the censorship
 office to the Florida Hotel and it was raining. So about halfway home I got sick of the rain and
@@ -13271,7 +13262,7 @@ window and thought of the wife kneeling there and saying, “Pedro. Pedro, who h
 Pedro?” And I thought that the police would never be able to tell her that even if they had the name of
 the man who pulled the trigger.
 
-Night Before Battle
+# Night Before Battle
 
 AT THIS TIME WE WERE WORKING IN A shell-smashed house
 that overlooked the Casa del Campo in Madrid. Below us a battle was being fought. You could see it
@@ -14100,7 +14091,7 @@ inside of himself he was angry, very angry. You get angry about a lot of things 
 dying uselessly is one of them. But then I guess angry is about the best way that you can be when you
 attack.
 
-Under the Ridge
+# Under the Ridge
 
 IN THE HEAT OF THE DAY WITH THE DUST blowing, we came
 back, dry-mouthed, nose-clogged and heavy-loaded, down out of the battle to the long ridge above the
@@ -14443,7 +14434,7 @@ head held high, walking out of the battle. But his victory only lasted until he 
 down the ridge. We saw him lying stretched out there on the slope of the ridge, still wearing his
 blanket, as we came walking down the cut to get into the staff car that would take us to Madrid.
 
-Nobody Ever Dies
+# Nobody Ever Dies
 
 THE HOUSE WAS BUILT OF ROSE-COLORED plaster that had
 peeled and faded with the dampness and from its porch you could see the sea, very blue, at the end of
@@ -14848,7 +14839,7 @@ The Negro was frightened and he put his fingers all the way around the string of
 beads and held them tight. But they could not help his fear because he was up against an older magic
 now.
 
-The Good Lion
+# The Good Lion
 
 ONCE UPON A TIME THERE WAS A LION that lived in Africa
 with all the other lions. The other lions were all bad lions and every day they ate zebras and
@@ -14924,7 +14915,7 @@ But the good lion had flown all the way from Africa and Africa had changed him.
 Now the lion looked about him at the faces of all the nice people and he knew that he was at
 home but that he had also traveled. He was very happy.
 
-The Faithful Bull
+# The Faithful Bull
 
 ONE TIME THERE WAS A BULL AND HIS name was not Ferdinand
 and he cared nothing for flowers. He loved to fight and he fought with all the other bulls of his own
@@ -14969,7 +14960,7 @@ no longer had any problems of any kind and was being dragged out of the ring by 
 sword handler, who knew everything, said.
 “Perhaps we should all be faithful,” the matador said.
 
-Get a Seeing-Eyed Dog
+# Get a Seeing-Eyed Dog
 
 “AND WHAT DID WE DO THEN?” HE asked her. She told him.
 “That part is very strange. I can’t remember that at all.”
@@ -15116,7 +15107,7 @@ must get her away and get her away as soon as I can without hurting her. Because
 well at this. That I can promise you. But what else can you do? Nothing, he thought. There’s nothing
 you can do. But maybe, as you go along, you will get good at it.
 
-A Man of the World
+# A Man of the World
 
 THE BLIND MAN KNEW THE SOUNDS OF all the different
 machines in the Saloon. I don’t know how long it took him to learn the sounds of the machines but it
@@ -15241,7 +15232,7 @@ the three of us.
 “That Willis Sawyer,” he said. “Probably alone home by himself. That Willie Sawyer he don’t
 know how to have any fun at all.”
 
-Summer People
+# Summer People
 
 HALFWAY DOWN THE GRAVEL ROAD FROM Hortons Bay, the
 town, to the lake there was a spring. The water came up in a tile sunk beside the road, lipping over
@@ -15523,10 +15514,7 @@ for the family, himself, to be a great writer, Kate, the men, Odgar, for good fi
 poor old Odgar, sleeping up there at the cottage, maybe not fishing, maybe not sleeping all night. Still
 there wasn’t anything you could do, not a thing.
 
-Originally published in The Nick Adams Stories, this short story was left uncompleted by
-Hemingway.
-
-The Last Good Country
+# The Last Good Country
 
 “NICKIE,” HIS SISTER SAID TO HIM. “LISten to me, Nickie.”
 “I don’t want to hear it.”
@@ -17051,7 +17039,7 @@ we were hunting.”
 “Will you read it?”
 “Sure.”
 
-An African Story
+# An African Story
 
 HE WAS WAITING FORTHE MOON TO RISE and he felt Kibo’s
 hair rise under his hand as he stroked him to be quiet and they both watched and listened as the moon
@@ -17367,14 +17355,7 @@ servant of heroes, sitting in the dust by the heroic dog of a hero who held an o
 promoted to the standing of the heroes’ favorite rooster. They sat there and drank beer while the big
 drum started and the ngoma began to build.
 
-Part III
-
-Previously Unpublished Fiction
-
-“A Train Trip” represents the first four chapters of an unfinished and untitled Lardneresque
-novel. These scenes form a fine short story in the vein of “The Battler” and “Fifty Grand.”
-
-A Train Trip
+# A Train Trip
 
 MY FATHER TOUCHED ME AND I WAS awake. He stood by the bed in the dark. I felt his hand on me
 and I was wide awake in my head and saw and felt things but all the rest of me was asleep.
@@ -17860,9 +17841,7 @@ when we go duck hunting except it was warm and thicker and smoother.”
 “When was that?”
 “Oh, a long time ago,” said my father.
 
-“The Porter” is a scene from the same unfinished and untitled novel as “A Train Trip.”
-
-The Porter
+# The Porter
 
 WHEN WE WENT TO BED MY FATHER said I might as well sleep
 in the lower berth because I would want to look out the window early in the morning. He said an
@@ -18134,10 +18113,7 @@ suppose I thought of all those things because I have never thought much and neve
 the feeling of all those things that the country along the Hudson River gave me. The rain can make all
 places strange, even places where you live.
 
-“Black Ass at the Cross Roads,” a completed short story, was written between the end of World
-War II and 1961.
-
-Black Ass at the Cross Roads
+# Black Ass at the Cross Roads
 
 WE HAD REACHED THE CROSS ROADS before noon and had shot
 a French civilian by mistake. He had run across the field on our right beyond the farmhouse when he
@@ -18535,11 +18511,7 @@ a mile from here,” Red told him.
 “Thank you very much,” Claude said. We were splitting it even between us and neither of us
 liked our share.
 
-“Landscape with Figures,” a story of the Spanish Civil War, was written around 1938, and was
-one of the short stories Hemingway suggested be included in a new collection he proposed in a
-letter to editor Maxwell Perkins on February 7, 1939.
-
-Landscape with Figures
+# Landscape with Figures
 
 IT WAS VERY STRANGE IN THAT HOUSE . The elevator, of
 course, no longer ran. The steel column it slid up and down on was bent and there were several
@@ -18776,19 +18748,9 @@ But he put up his hand and rubbed out the words written in lipstick on the windo
 “Good,” said Johnny, smiling happily. “Now we are all good friends again. In a war we must all
 be careful not to hurt each other’s feelings.”
 
-“I Guess Everything Reminds You of Something” is a completed short story set in Cuba, where
-Hemingway made his home at the Finca Vigía from 1939 to 1959.
+# I Guess Everything Reminds You of Something
 
-I Guess Everything Reminds
-You of Something
-
-“IT’S A VERY GOOD
-
-STORY
-
-,” THE BOY’S father said. “Do you
-
-know how good it is?”
+“IT’S A VERY GOOD STORY,” THE BOY’S father said. “Do you know how good it is?”
 “I didn’t want her to send it to you, Papa.”
 “What else have you written?”
 “That’s the only story. Truly I didn’t want her to send it to you. But when it won the prize—”
@@ -18927,11 +18889,7 @@ sickness. He was all right until then. But that had all started a year or more a
 Now he knew that boy had never been any good. He had thought so often looking back on things.
 And it was sad to know that shooting did not mean a thing.
 
-“Great News from the Mainland” is another
-completed short story set in Cuba.
-
-Great News from the
-Mainland
+#Great News from the Mainland
 
 FOR THREE DAYS IT BLEW OUT OF THE south bending the fronds
 of the royal palms until they were parted in a line forward and away from the grey trunks that bent
@@ -19012,15 +18970,7 @@ He smiled happily, remembering the old days.
 “That’s nice of him. How is he?”
 “Fine,” I said. “He says everything is fine.”
 
-“The Strange Country” comprises four chapters of an uncompleted novel that Hemingway worked
-on at intervals in 1946-1947 and 1950-1951. These scenes represent preliminary material for an
-early version of Islands in the Stream, which was published posthumously in 1970. Hemingway
-apparently discarded these chapters when he changed the direction of the novel as he worked on
-it. Readers will note the reuse of names subsequently given to other characters in the final version
-of Islands in the Stream. None of these rearrangements diminishes the unity and integrity of “The
-Strange Country.”
-
-The Strange Country
+# The Strange Country
 
 MIAMI WAS HOT AND MUGGY AND THE land wind that blew
 from the Everglades brought mosquitoes even in the morning.
